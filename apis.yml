@@ -6,7 +6,7 @@ description: Bloomberg Government (BGOV) is a comprehensive intelligence platfor
   budget analysis, and policy research tools. It offers APIs and data feeds for integrating
   government and regulatory data into enterprise workflows.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 url: https://raw.githubusercontent.com/api-evangelist/bloomberg-government-bgov/refs/heads/main/apis.yml
 created: '2024-01-01'
 modified: '2026-04-21'
