@@ -52,6 +52,8 @@ apis:
     - type: Documentation
       url: https://about.bgov.com/federal-contracting-intelligence/
 common:
+  - type: DomainSecurity
+    url: security/bloomberg-government-bgov-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/bloomberg-government
   - type: Portal
