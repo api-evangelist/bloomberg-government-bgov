@@ -64,19 +64,71 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Bloomberg Government (BGOV) is a comprehensive intelligence platform for professionals working at the intersection of government and business. BGOV provides legislative tracking, regulatory intelligence, government contracting data, federal budget analysis, and policy research tools.
+Bloomberg Government (BGOV) is a comprehensive intelligence platform for professionals working at the intersection of government and business. BGOV provides legislative tracking, regulatory intelligence, government contracting data, federal budget analysis, and policy research tools. It offers APIs and data feeds for integrating government and regulatory data into enterprise workflows.
 
-## APIs
+**Areas:** Government · Legislative · Regulatory · Government Contracting · Federal Budget · Policy Research · Bloomberg
 
-- **Bloomberg Government Data API** - Legislative, regulatory, and contracting data
-- **BGOV Government Contracting Intelligence** - Federal contract awards and procurement data
+## Bloomberg Government (BGOV) on APIs.io
 
-## Resources
+Everything profiled for Bloomberg Government (BGOV) is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/bloomberg-government-bgov/](https://apis.io/providers/bloomberg-government-bgov/)** — or go straight to one of the APIs or properties below.
 
-- [Bloomberg Government](https://about.bgov.com/)
-- [Bloomberg Professional Portal](https://www.bloomberg.com/professional/)
-- [BGOV Contact](https://about.bgov.com/contact/)
+### APIs (2)
 
-## Profile
+- [Bloomberg Government Data API](https://apis.io/apis/bloomberg-government-bgov/bgov-data-api/) — Access BGOV legislative, regulatory, and government contracting data programmatically. Retrieve bill tracking, regulatory actions, federal contract awards,…
+- [BGOV Government Contracting Intelligence](https://apis.io/apis/bloomberg-government-bgov/bgov-contracting-api/) — Access federal contract award data, procurement intelligence, and vendor spending data. Track USASpending.gov data enriched with Bloomberg analytics for…
 
-See [apis.yml](apis.yml) for the full API profile.
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Bloomberg Government Bgov Domain Security](https://apis.io/security/bloomberg-government-bgov/bloomberg-government-bgov-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Bloomberg Government Bgov Plans Pricing](https://apis.io/plans/bloomberg-government-bgov/bloomberg-government-bgov-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Bloomberg Government Bgov Rate Limits](https://apis.io/rate-limits/bloomberg-government-bgov/bloomberg-government-bgov-rate-limits/)
+
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [Bloomberg Government Bgov Finops](https://apis.io/finops/bloomberg-government-bgov/bloomberg-government-bgov-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Documentation](https://about.bgov.com/)
+- [Support](https://about.bgov.com/contact/)
+- [Blog](https://about.bgov.com/insights/)
+- [Terms of service](https://www.bloomberg.com/notices/tos/)
+- [Privacy policy](https://www.bloomberg.com/privacy/)
+
+## API Evangelist rating
+
+**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
+
+This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Bloomberg Government (BGOV): the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/bloomberg-government-bgov/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
